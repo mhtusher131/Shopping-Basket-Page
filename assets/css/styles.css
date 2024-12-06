@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    
+
+}
+
+.basket-items .basket-item img {
+
+    border-radius: 8px;
+    height: fit-content;
+}
+
+.basket-items .basket-item h5, .order-summary h5, .order-summary h4 {
+    font-family: 'Playfair Display', serif;
+}
+
+.order-summary {
+    background-color: #f9f9f9;
+    
+}
+
+.order-summary p {
+    
+    margin: 0.5rem 0;
+}
+
+.order-summary h5 {
+    margin-top: 1rem;
+}
