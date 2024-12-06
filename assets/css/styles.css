@@ -4,6 +4,10 @@ body {
 
 }
 
+header .logo {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+}
 .basket-items .basket-item img {
 
     border-radius: 8px;
